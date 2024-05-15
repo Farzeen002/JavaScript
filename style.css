@@ -1,0 +1,15 @@
+h2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(121, 245, 6);
+    text-decoration:underline;
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+button{
+    color: azure;
+    background-color: blue;
+}
+

@@ -1,0 +1,11 @@
+
+let gamenum = 77;
+let attempts = 0;
+let num = prompt("guess the game number");
+
+while(num != gamenum){
+    attempts ++;
+    num = prompt("Try guessing the number again");
+}
+
+alert("you won after " +attempts + " attempts " );
